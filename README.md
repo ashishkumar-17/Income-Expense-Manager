@@ -184,11 +184,12 @@ For questions or suggestions, feel free to reach out:
 ---
 
 ### Screenshots
-*(You can add these later by taking screenshots of the app)*
 
-- **Stock Section**: ![Stock](screenshots/stock.png)
-- **Finance Section**: ![Finance](screenshots/finance.png)
-- **Invoice PDF**: ![Invoice](screenshots/invoice.png)
+- **Stock Section**: ![stock](https://github.com/user-attachments/assets/34cc82bc-4918-4d73-b50e-d4e47451b6d6)
+
+- **Finance Section**: ![finance](https://github.com/user-attachments/assets/41bdc94e-916d-4412-bc69-baff7b40ff0f)
+
+- **Invoice PDF**: ![invoice](https://github.com/user-attachments/assets/84de2381-c413-4359-9897-818d6e47892f)
 
 ---
 
